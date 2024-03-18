@@ -4,8 +4,7 @@
 <h1>👨‍🏫About Me</h1>
 <h4>I am web developer</h4>
 
-I’m a Front End Web developer. Web development is my passion. who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems.
-
+As a fervent Front End Web Developer, I'm dedicated to creating impeccable websites that surpass client expectations. With a focus on excellence and problem-solving, my mission is to deliver error-free solutions that guarantee 100% client satisfaction.
 Skills:  REACT /JS /Bootstrap/CSS / HTML
 
 - 🔭 I’m currently working on this page.Self Employee 
